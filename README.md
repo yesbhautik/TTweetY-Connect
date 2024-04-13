@@ -13,29 +13,25 @@ Hey there! Welcome to the world of TTweetY Connect, where social media meets aut
 4. **Text Tweeting:** Broadcast text-based updates or announcements on Twitter to keep your followers informed and engaged with your latest developments or insights.
 
 ## Key Features
-
 1. **Intelligent Keyword Filtering**
     - **Content Consideration**: 🧐Add specific keywords that enable the bot to determine which content is earmarked for automation, ensuring only relevant updates are shared across platforms.
-
     - **Customization at Your Fingertips**: Easily tailor or disable this feature to match your evolving requirements, giving you complete control over your content strategy.
-<br>
+
 2. **Selective Channel/Group Integration**
     - **Focused Messaging**: 📢 Opt to add specific channel or group IDs, directing the bot to consider messages from these sources exclusively for posting. This feature puts you in the driver's seat, allowing you to decide where your content goes.
-
     - **Flexibility to Choose**: The power is yours to activate this feature or keep your options open, offering flexibility in how your content is distributed and shared.
-<br>
+
 3. **Compliance and Validation**
     - **Hassle-Free Posting:** ✅ All restrictions related to posting on Twitter are meticulously checked and validated by default. This ensures your content seamlessly meets platform guidelines.
-
     - **Real-Time Feedback:** 📣 Should any content fail to meet Twitter's posting criteria, you'll receive an immediate notification on your Telegram group. This prompt feedback loop enables quick adjustments and ensures your content strategy remains uninterrupted.
 
 ## Setting Up
-
-🚀 Ready to explore the power of TTweetY Connect? 🤖✨
+#### 🚀 Ready to explore the power of TTweetY Connect? 🤖✨
+<br>
 
 Here's a quick guide to get you started:
 
-🐦 **Get Your Twitter API Keys!** 🗝️
+#### 🐦 **Get Your Twitter API Keys!** 🗝️
 
 1. **Join the Twitter Developer Platform:**  Navigate to the [Twitter Developer Platform](https://developer.twitter.com/en/portal) and sign in or sign up if you haven't already. This platform provides the tools and resources necessary to create and manage your Twitter apps.
 
@@ -51,13 +47,13 @@ Here's a quick guide to get you started:
 
 If you're still unsure about how to access the API key, check out this video [here](https://youtu.be/rIyRrUAsaok?si=g7qg2Anhv9SEm9xK).
 
-<u><b>Create Your Bot with BotFather</b></u>:
+#### <u>Create Your Bot with BotFather</u>:
 
 1. **Chat with BotFather:** Open Telegram and search for "[@BotFather](https://t.me/BotFather)" to initiate a chat. BotFather is a special bot provided by Telegram for creating and managing other bots.
 
 2. **Create Your Bot:** In the BotFather chat, type "/newbot" to begin the bot creation process. Follow the prompts to provide a name and username for your bot. Once complete, BotFather will issue you a unique API token, which serves as your bot's authentication key.
 
-<u><b>Integrate Your Bot into the Digital World:</b></u>:
+#### <u>Integrate Your Bot into the Digital World:</u>:
 
 1. **Add Your Bot to a Group or Channel:** To integrate your bot into a Telegram group or channel, simply search for its username within Telegram and click "Add" to include it in the desired group/channel.
 
@@ -74,37 +70,37 @@ Before running the bot, ensure you have the following prerequisites installed:
 
 ## Run Locally
 
-  Clone the project
+  1. Clone the project
 
-  ```bash
-  git clone https://github.com/yesbhautik/TTweetY-Connect.git
-  ```
+      ```bash
+      git clone https://github.com/yesbhautik/TTweetY-Connect.git
+      ```
 
-  Go to the project directory
+  2. Go to the project directory
+    
+      ```bash
+      cd Vishwesh-TestNet
+      ```
 
-  ```bash
-  cd Vishwesh-TestNet
-  ```
+  3. Install dependencies
 
-  Install dependencies
+      ```bash
+      npm i
+      ```
 
-  ```bash
-  npm i
-  ```
+  4. Create a .env file from the .env.example file and update the necessary keys and tokens
 
-  Create a .env file from the .env.example file and update the necessary keys and tokens
+      ```bash
+      cp .env.example .env
+      ```
 
-  ```bash
-  cp .env.example .env
-  ```
+      > Double-check your entries to ensure a smooth and error-free experience.
 
-  > Double-check your entries to ensure a smooth and error-free experience.
+  5. Start the server
 
-  Start the server
-
-  ```bash
-  npm start
-  ```
+      ```bash
+      npm start
+      ```
 
 ## 📦 Code Distribution
 
