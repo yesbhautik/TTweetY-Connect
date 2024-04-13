@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "image-type": "^5.2.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "pdf-poppler": "^0.2.1",
+    "rimraf": "^5.0.5",
+    "twitter-api-v2": "^1.16.0"
+  },
+  
+    "scripts": {
+      "start": "node src/bot/main.js"
+    }
+  
+}
