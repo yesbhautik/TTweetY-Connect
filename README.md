@@ -153,4 +153,4 @@ This repository is licensed under a [Creative Commons Attribution-NonCommercial-
 
 ## Special Thanks To
 
-**Vishwesh Kumar:** [X (formally tweeter)](https://twitter.com/vvs_1812) | [LinkedIn](https://www.linkedin.com/in/vishwesh-salampuria)
+**Vishwesh Kumar:** [X (formally Twitter)](https://twitter.com/vvs_1812) | [LinkedIn](https://www.linkedin.com/in/vishwesh-salampuria)
