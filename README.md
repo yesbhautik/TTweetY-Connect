@@ -79,7 +79,7 @@ Before running the bot, ensure you have the following prerequisites installed:
   2. Go to the project directory
     
       ```bash
-      cd Vishwesh-TestNet
+      cd TTweetY-Connect
       ```
 
   3. Install dependencies
@@ -153,4 +153,4 @@ This repository is licensed under a [Creative Commons Attribution-NonCommercial-
 
 ## Special Thanks To
 
-**Vishwesh Kumar:** [X (formally tweeter)](https://twitter.com/vvs_1812) | [LinkedIn](www.linkedin.com/in/vishwesh-salampuria)
+**Vishwesh Kumar:** [X (formally tweeter)](https://twitter.com/vvs_1812) | [LinkedIn](https://www.linkedin.com/in/vishwesh-salampuria)
